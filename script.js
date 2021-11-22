@@ -55,7 +55,7 @@ confirmSpecialCharacters = confirm("Should it include special characters?");
   }
 
   if (confirmNumbers) {
-    resultArray = resultArray.concat(numbersOption);
+    resultArray = resultArray.concat(numbersOptions);
 
   }
 
@@ -71,8 +71,10 @@ var randomPass = ""
 for(var i = 0; i < confirmPassLength; i++) {
 // Must make the password here
   var randomIndex = Math.floor(Math.random() * resultArray.length)
-  randomPass +- resultArray[randomIndex]
+  randomPass += resultArray[randomIndex]
   }
+  return randomPass;
+
 }  
 // Write password to the #password input
     function writePassword() {
