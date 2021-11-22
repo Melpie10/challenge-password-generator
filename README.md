@@ -21,7 +21,7 @@ It can also be accessed on the live website: https://melpie10.github.io/challeng
  ## Visuals
 
 The Password looks like this when opened on Google Chrome: 
- ![Screenshot of Horiseon Website](./assets/images/Horiseon-Website-Screenshot.png)
+ ![Screenshot of Password Generator]( https://github.com/Melpie10/challenge-password-generator/blob/7dac97d2cae42fc97f0dd27a3f53dd6d1c53f128/Mel-Pietrowski-Password-generator.png)
 
 
 
